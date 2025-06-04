@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "",
+    "repository": "https://github.com/TINTUMWON/Saini-tlg-bot",
     "success_url": "https://t.me/saini_contact_bot",
     "stack": "container",
     "env": {
